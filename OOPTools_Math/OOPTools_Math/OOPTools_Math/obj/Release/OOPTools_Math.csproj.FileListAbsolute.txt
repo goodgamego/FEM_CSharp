@@ -1,0 +1,9 @@
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\01_10-OOPTools_Math\OOPTools_Math\OOPTools_Math\bin\Release\OOPTools_Math.dll
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\01_10-OOPTools_Math\OOPTools_Math\OOPTools_Math\bin\Release\OOPTools_Math.pdb
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\01_10-OOPTools_Math\OOPTools_Math\OOPTools_Math\obj\Release\OOPTools_Math.dll
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\01_10-OOPTools_Math\OOPTools_Math\OOPTools_Math\obj\Release\OOPTools_Math.pdb
+C:\Temp\Funs of FEM\FEM_HW5_Project\OOPTools_Math\OOPTools_Math\OOPTools_Math\bin\Release\OOPTools_Math.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\OOPTools_Math\OOPTools_Math\OOPTools_Math\bin\Release\OOPTools_Math.pdb
+C:\Temp\Funs of FEM\FEM_HW5_Project\OOPTools_Math\OOPTools_Math\OOPTools_Math\obj\Release\OOPTools_Math.csprojResolveAssemblyReference.cache
+C:\Temp\Funs of FEM\FEM_HW5_Project\OOPTools_Math\OOPTools_Math\OOPTools_Math\obj\Release\OOPTools_Math.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\OOPTools_Math\OOPTools_Math\OOPTools_Math\obj\Release\OOPTools_Math.pdb

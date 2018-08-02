@@ -1,0 +1,9 @@
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic\ND_Elastic\bin\Debug\OOPTools_FEM_1D.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic\ND_Elastic\bin\Debug\OOPTools_FEM_ND.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic\ND_Elastic\bin\Debug\OOPTools_Graphics.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic\ND_Elastic\bin\Debug\OOPTools_Math.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic\ND_Elastic\obj\Debug\ND_Elastic.csprojResolveAssemblyReference.cache
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic\ND_Elastic\bin\Debug\ND_Elastic.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic\ND_Elastic\bin\Debug\ND_Elastic.pdb
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic\ND_Elastic\obj\Debug\ND_Elastic.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic\ND_Elastic\obj\Debug\ND_Elastic.pdb

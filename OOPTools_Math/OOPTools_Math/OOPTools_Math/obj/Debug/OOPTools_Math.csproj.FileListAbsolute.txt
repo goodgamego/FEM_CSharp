@@ -1,0 +1,5 @@
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\01_10-OOPTools_Math\OOPTools_Math\OOPTools_Math\bin\Debug\OOPTools_Math.dll
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\01_10-OOPTools_Math\OOPTools_Math\OOPTools_Math\bin\Debug\OOPTools_Math.pdb
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\01_10-OOPTools_Math\OOPTools_Math\OOPTools_Math\obj\Debug\OOPTools_Math.csprojResolveAssemblyReference.cache
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\01_10-OOPTools_Math\OOPTools_Math\OOPTools_Math\obj\Debug\OOPTools_Math.dll
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\01_10-OOPTools_Math\OOPTools_Math\OOPTools_Math\obj\Debug\OOPTools_Math.pdb

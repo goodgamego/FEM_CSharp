@@ -1,0 +1,5 @@
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\02_10-OOPTools_Graphics\OOPTools_Graphics\OOPTools_Graphics\bin\Debug\OOPTools_Graphics.dll
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\02_10-OOPTools_Graphics\OOPTools_Graphics\OOPTools_Graphics\bin\Debug\OOPTools_Graphics.pdb
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\02_10-OOPTools_Graphics\OOPTools_Graphics\OOPTools_Graphics\obj\Debug\OOPTools_Graphics.csprojResolveAssemblyReference.cache
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\02_10-OOPTools_Graphics\OOPTools_Graphics\OOPTools_Graphics\obj\Debug\OOPTools_Graphics.dll
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\02_10-OOPTools_Graphics\OOPTools_Graphics\OOPTools_Graphics\obj\Debug\OOPTools_Graphics.pdb

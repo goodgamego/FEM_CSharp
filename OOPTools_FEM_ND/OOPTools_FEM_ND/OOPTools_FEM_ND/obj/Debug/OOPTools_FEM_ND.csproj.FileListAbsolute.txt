@@ -1,0 +1,8 @@
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\04_10-OOPTools_FEM_ND\OOPTools_FEM_ND\OOPTools_FEM_ND\bin\Debug\OOPTools_FEM_ND.dll
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\04_10-OOPTools_FEM_ND\OOPTools_FEM_ND\OOPTools_FEM_ND\bin\Debug\OOPTools_FEM_ND.pdb
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\04_10-OOPTools_FEM_ND\OOPTools_FEM_ND\OOPTools_FEM_ND\bin\Debug\OOPTools_FEM_1D.dll
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\04_10-OOPTools_FEM_ND\OOPTools_FEM_ND\OOPTools_FEM_ND\bin\Debug\OOPTools_Math.dll
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\04_10-OOPTools_FEM_ND\OOPTools_FEM_ND\OOPTools_FEM_ND\bin\Debug\OOPTools_FEM_1D.pdb
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\04_10-OOPTools_FEM_ND\OOPTools_FEM_ND\OOPTools_FEM_ND\bin\Debug\OOPTools_Math.pdb
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\04_10-OOPTools_FEM_ND\OOPTools_FEM_ND\OOPTools_FEM_ND\obj\Debug\OOPTools_FEM_ND.dll
+E:\ACTIVITY.ACD\Books\ObjectOrientedFEM\Programs\04_10-OOPTools_FEM_ND\OOPTools_FEM_ND\OOPTools_FEM_ND\obj\Debug\OOPTools_FEM_ND.pdb

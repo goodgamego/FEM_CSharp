@@ -1,0 +1,31 @@
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\bin\Debug\ND_SolidMechanics_Interface.exe.config
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\obj\Debug\ND_SolidMechanics_Interface.exe
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\obj\Debug\ND_SolidMechanics_Interface.pdb
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\bin\Debug\ND_SolidMechanics_Interface.exe
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\bin\Debug\ND_SolidMechanics_Interface.pdb
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\bin\Debug\ND_SolidMechanics.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\bin\Debug\OOPTools_FEM_1D.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\bin\Debug\OOPTools_FEM_ND.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\bin\Debug\OOPTools_Graphics.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\bin\Debug\OOPTools_Math.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\obj\Debug\ND_Elastic.csprojResolveAssemblyReference.cache
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\obj\Debug\ND_SolidMechanics_Interface.Form1.resources
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\obj\Debug\ND_SolidMechanics_Interface.Properties.Resources.resources
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_SolidMechanics_Interface\ND_Elastic_Project\obj\Debug\ND_Elastic.csproj.GenerateResource.Cache
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\bin\Debug\ND_SolidMechanics_Interface.exe.config
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\obj\Debug\ND_SolidMechanics_Interface.exe
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\obj\Debug\ND_SolidMechanics_Interface.pdb
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\obj\Debug\ND_Elastic.csprojResolveAssemblyReference.cache
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\obj\Debug\ND_SolidMechanics_Interface.Properties.Resources.resources
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\obj\Debug\ND_Elastic.csproj.GenerateResource.Cache
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\bin\Debug\ND_SolidMechanics_Interface.exe
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\bin\Debug\ND_SolidMechanics_Interface.pdb
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\bin\Debug\OOPTools_FEM_1D.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\bin\Debug\OOPTools_FEM_ND.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\bin\Debug\OOPTools_Graphics.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\bin\Debug\OOPTools_Math.dll
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\obj\Debug\ND_Elastic_Project.Form1.resources
+C:\Temp\Funs of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\bin\Debug\ND_Elastic.dll
+C:\Wenkai Niu\Courses\Funds of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\bin\Debug\ND_SolidMechanics_Interface.exe.config
+C:\Wenkai Niu\Courses\Funds of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\obj\Debug\ND_SolidMechanics_Interface.exe
+C:\Wenkai Niu\Courses\Funds of FEM\FEM_HW5_Project\ND_Elastic_Project\ND_Elastic_Project\obj\Debug\ND_SolidMechanics_Interface.pdb

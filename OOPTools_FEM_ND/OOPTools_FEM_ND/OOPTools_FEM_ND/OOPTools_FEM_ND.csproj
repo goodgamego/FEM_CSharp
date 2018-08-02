@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9EBD7BD2-8FC6-485F-B32F-4CD7BDB39C23}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OOPTools_FEM_ND</RootNamespace>
+    <AssemblyName>OOPTools_FEM_ND</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="OOPTools_FEM_1D">
+      <HintPath>..\..\..\03_10-OOPTools_FEM_1D\OOPTools_FEM_1D\OOPTools_FEM_1D\bin\Release\OOPTools_FEM_1D.dll</HintPath>
+    </Reference>
+    <Reference Include="OOPTools_Math">
+      <HintPath>..\..\..\01_10-OOPTools_Math\OOPTools_Math\OOPTools_Math\bin\Release\OOPTools_Math.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BoundaryElement_ND.cs" />
+    <Compile Include="BoundaryElement_ND_Static.cs" />
+    <Compile Include="BoundaryElement_ND_Transient.cs" />
+    <Compile Include="Element_ND.cs" />
+    <Compile Include="Element_ND_MultiPhysics.cs" />
+    <Compile Include="Element_ND_ScalarField.cs" />
+    <Compile Include="Element_ND_VectorField.cs" />
+    <Compile Include="FEMSolver_ND.cs" />
+    <Compile Include="FEMSolver_ND_Static.cs" />
+    <Compile Include="FEMSolver_ND_Static_SparseMatrix.cs" />
+    <Compile Include="FEMSolver_ND_Transient.cs" />
+    <Compile Include="FEMSolver_ND_Transient_FirstOrder.cs" />
+    <Compile Include="FEMSolver_ND_Transient_FirstOrder_CrankNicolson.cs" />
+    <Compile Include="FEMSolver_ND_Transient_FirstOrder_CrankNicolson_SparseMatrix.cs" />
+    <Compile Include="FEMSolver_ND_Transient_SecondOrder.cs" />
+    <Compile Include="FEMSolver_ND_Transient_SecondOrder_Newmark.cs" />
+    <Compile Include="FEMSolver_ND_Transient_SecondOrder_Newmark_SparseMatrix.cs" />
+    <Compile Include="Integrator_ND_Quadrature.cs" />
+    <Compile Include="Node_ND.cs" />
+    <Compile Include="ParametricInterpolation_ND.cs" />
+    <Compile Include="ParametricInterpolation_ND_Cube.cs" />
+    <Compile Include="ParametricInterpolation_ND_Line.cs" />
+    <Compile Include="ParametricInterpolation_ND_Square.cs" />
+    <Compile Include="ParametricInterpolation_ND_Tetrahedron.cs" />
+    <Compile Include="ParametricInterpolation_ND_Triangle.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuadratureRules_ND_Area.cs" />
+    <Compile Include="QuadratureRules_ND_Line.cs" />
+    <Compile Include="QuadratureRules_ND_Volume.cs" />
+    <Compile Include="QuadratureRule_ND.cs" />
+    <Compile Include="Sensor_ND.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
